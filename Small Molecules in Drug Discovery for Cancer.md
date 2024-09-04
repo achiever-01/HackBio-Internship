@@ -2,7 +2,7 @@
 
 Author (@slack) : Deborah Abolarinwa (@Achiever01)
 
-Small molecules are defined as low molecular weight (usually ≤ 1000 Daltons) organic compounds that may regulate a biological process. Small molecules may be used as tools to probe biological function and as leads in the development of new therapeutic agents (Arkin & Wells, 2004). Some can inhibit a specific function of a protein or disrupt protein–protein interactions. Pharmacology usually restricts the term "small molecule" to molecules that bind specific biological macromolecules and act as an effector, altering the activity or function of the target. These compounds can be natural (such as secondary metabolites produced by different organisms including bacteria, fungi, and plants) or artificial/synthetic. About 90% of pharmaceutical drugs are small molecules (such as insulin, aspirin, and antihistamines) and they have some distinct advantages as therapeutics because they can be administered orally and they can pass through cell membranes to reach intracellular targets (Govardhanagiri _et al_., 2019).
+Small molecules are defined as low molecular weight (usually ≤ 1000 Daltons) organic compounds that may regulate a biological process. Small molecules may be used as tools to probe biological function and as leads in the development of new therapeutic agents (Arkin & Wells, 2004). Some can inhibit a specific function of a protein or disrupt protein–protein interactions. Pharmacology usually restricts the term "small molecule" to molecules that bind specific biological macromolecules and act as an effector, altering the activity or function of the target. These compounds can be natural (such as secondary metabolites produced by different organisms including bacteria, fungi, and plants) or artificial/synthetic. About 90% of pharmaceutical drugs are small molecules (antibiotics e.g penicillin) and they have some distinct advantages as therapeutics because they can be administered orally and they can pass through cell membranes to reach intracellular targets (Govardhanagiri _et al_., 2019).
 
 In cancer therapeutics, small molecules can be used as anticancer drugs that inhibit certain proteins in cancer cells. These small-molecule inhibitors interrupt certain protein pathways, and this can lead to decreased cancer cell development and proliferation. Because of their small size, small molecules have been successfully used to target the extracellular, cell surface ligand-binding receptors and the intracellular proteins that play key roles in transducing downstream signaling for cancer cell survival, proliferation, and metastasis. Small molecule cancer drugs cover a wide range of inhibitors, including kinase inhibitors, proteasome inhibitors, matrix metalloproteinase inhibitors, etc. (Li _et al_., 2023)
 
@@ -12,9 +12,9 @@ In cancer therapeutics, small molecules can be used as anticancer drugs that inh
 
 2.)    **Tucatinib**: A small molecule kinase inhibitor, is an anticancer medication used for the treatment of human epidermal growth factor receptor 2 (HER2) breast cancer (Schlam & Swain, 2021).
 
-3.)    **Sorafenib** (Wilhelm _et al_., 2008)
+3.)    **Sorafenib**: A small molecule kinase inhibitors that inhibits tyrosine and serine/threonine kinases. Sorafenib is used to treat kidney, liver, and thyroid cancer (Wilhelm _et al_., 2008)
 
-4.)    **Bortezomib** (Chen _et al_., 2011). Etc.
+4.)    **Bortezomib**: A small molecule Proteasome inhibitor is a type of targeted cancer drug used to treat myeloma and mantle cell lymphoma  (Chen _et al_., 2011). Etc.
 
 ### **CONCLUSION**
 
