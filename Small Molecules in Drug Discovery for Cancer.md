@@ -1,10 +1,10 @@
-**SMALL MOLECULES IN DRUG DISCOVERY FOR CANCER**
+# **SMALL MOLECULES IN DRUG DISCOVERY FOR CANCER**
 
 Small molecules are defined as low molecular weight (usually ≤ 1000 Daltons) organic compounds that may regulate a biological process. Small molecules may be used as tools to probe biological function and as leads in the development of new therapeutic agents (Arkin & Wells, 2004). Some can inhibit a specific function of a protein or disrupt protein–protein interactions. Pharmacology usually restricts the term "small molecule" to molecules that bind specific biological macromolecules and act as an effector, altering the activity or function of the target. These compounds can be natural (such as secondary metabolites produced by different organisms including bacteria, fungi, and plants) or artificial/synthetic. About 90% of pharmaceutical drugs are small molecules (such as insulin, aspirin, and antihistamines) and they have some distinct advantages as therapeutics because they can be administered orally and they can pass through cell membranes to reach intracellular targets (Govardhanagiri _et al_., 2019).
 
 In cancer therapeutics, small molecules can be used as anticancer drugs that inhibit certain proteins in cancer cells. These small-molecule inhibitors interrupt certain protein pathways, and this can lead to decreased cancer cell development and proliferation. Because of their small size, small molecules have been successfully used to target the extracellular, cell surface ligand-binding receptors and the intracellular proteins that play key roles in transducing downstream signaling for cancer cell survival, proliferation, and metastasis. Small molecule cancer drugs cover a wide range of inhibitors, including kinase inhibitors, proteasome inhibitors, matrix metalloproteinase inhibitors, etc. (Li _et al_., 2023)
 
-Some examples of small molecules cancer drugs include:
+### Some examples of small molecules cancer drugs include:
 
 1.)    **Erlotinib:** A small molecule tyrosine kinase receptor inhibitor of the epidermal growth factor receptor (EGFR) and it’s used to treat non-small cell lung cancer and pancreatic cancer (Abdelgalil _et al_., 2020).
 
@@ -14,11 +14,13 @@ Some examples of small molecules cancer drugs include:
 
 4.)    **Bortezomib** (Chen _et al_., 2011). Etc.
 
+## **CONCLUSION**
+
 Small molecules have the potential to revolutionize drug discovery for cancer therapy, due to their low molecular weight and ability to penetrate cell membranes, small molecules can interact with several intracellular and extracellular targets, making them very useful in the development of anticancer drugs. Advances in natural product biosynthesis, computational drug design, high-throughput screening, etc. are likely to enhance the discovery and development of small molecules therapeutics.
 
 ****
 
-**REFERENCES**
+## **REFERENCES**
 
 Abdelgalil, A. A., Al-Kahtani, H. M., & Al-Jenoobi, F. I. (2020). Erlotinib. _Profiles of Drug Substances, Excipients, and Related Methodology_, _45_, 93–117. https\://doi.org/10.1016/bs.podrm.2019.10.004
 
