@@ -10,7 +10,7 @@ Some examples of small molecules cancer drugs include:
 
 2.)    **Tucatinib**: A small molecule kinase inhibitor, is an anticancer medication used for the treatment of human epidermal growth factor receptor 2 (HER2) breast cancer (Schlam & Swain, 2021).
 
-3.)    **Sorafenib **(Wilhelm _et al_., 2008)
+3.)    **Sorafenib** (Wilhelm _et al_., 2008)
 
 4.)    **Bortezomib** (Chen _et al_., 2011). Etc.
 
