@@ -4,7 +4,7 @@ Small molecules are defined as low molecular weight (usually ≤ 1000 Daltons) o
 
 In cancer therapeutics, small molecules can be used as anticancer drugs that inhibit certain proteins in cancer cells. These small-molecule inhibitors interrupt certain protein pathways, and this can lead to decreased cancer cell development and proliferation. Because of their small size, small molecules have been successfully used to target the extracellular, cell surface ligand-binding receptors and the intracellular proteins that play key roles in transducing downstream signaling for cancer cell survival, proliferation, and metastasis. Small molecule cancer drugs cover a wide range of inhibitors, including kinase inhibitors, proteasome inhibitors, matrix metalloproteinase inhibitors, etc. (Li _et al_., 2023)
 
-### Some examples of small molecules cancer drugs include:
+#### Some examples of small molecules cancer drugs include:
 
 1.)    **Erlotinib:** A small molecule tyrosine kinase receptor inhibitor of the epidermal growth factor receptor (EGFR) and it’s used to treat non-small cell lung cancer and pancreatic cancer (Abdelgalil _et al_., 2020).
 
@@ -14,13 +14,13 @@ In cancer therapeutics, small molecules can be used as anticancer drugs that inh
 
 4.)    **Bortezomib** (Chen _et al_., 2011). Etc.
 
-## **CONCLUSION**
+### **CONCLUSION**
 
 Small molecules have the potential to revolutionize drug discovery for cancer therapy, due to their low molecular weight and ability to penetrate cell membranes, small molecules can interact with several intracellular and extracellular targets, making them very useful in the development of anticancer drugs. Advances in natural product biosynthesis, computational drug design, high-throughput screening, etc. are likely to enhance the discovery and development of small molecules therapeutics.
 
 ****
 
-## **REFERENCES**
+### **REFERENCES**
 
 Abdelgalil, A. A., Al-Kahtani, H. M., & Al-Jenoobi, F. I. (2020). Erlotinib. _Profiles of Drug Substances, Excipients, and Related Methodology_, _45_, 93–117. https\://doi.org/10.1016/bs.podrm.2019.10.004
 
