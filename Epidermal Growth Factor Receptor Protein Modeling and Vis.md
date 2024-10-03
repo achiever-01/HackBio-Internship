@@ -1,6 +1,6 @@
 **EPIDERMAL GROWTH FACTOR RECEPTOR**
 
-**Authors (@slack):** Rukayat Jimoh (@Justjpearl), Ameenat Oloko (@Ameenat), Popoola Opeyemi Emmanuel (@Emmanuel), Adesina Damilola Victoria (@Victoria63) and Deborah Abolarinwa (@Achiever01).
+**Authors (@slack):** Ameenat Oloko (@Ameenat), Popoola Opeyemi Emmanuel (@Emmanuel), Deborah Abolarinwa (@Achiever01), Rukayat Jimoh (@Justjpearl), and Adesina Damilola Victoria (@Victoria63).
 
 **Introduction**
 
